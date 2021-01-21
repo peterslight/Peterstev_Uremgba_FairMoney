@@ -23,6 +23,8 @@ Some of the resources used include:
 * RxKotlin
 * Jetpack Navigation Components
 * Unit tests
+* Google Truth
+* Jupiter
 * Integration Tests
 
 ## To Do List
