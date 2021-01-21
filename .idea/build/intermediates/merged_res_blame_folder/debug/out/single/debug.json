@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_item.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\layout\\fragment_home_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_location_ico.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_location_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_thin.ttf.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat_thin.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_background_alt.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\drawable_background_alt.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_email.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-anydpi\\ic_action_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\navigation_navigation_graph.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\navigation\\navigation_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_regular.ttf.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_outline_email_24.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\ic_outline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_medium.ttf.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_call.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-anydpi\\ic_action_call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_calendar.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_location.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_calendar.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-anydpi\\ic_action_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_location_ico.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_location_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_calendar.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_location.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-anydpi\\ic_action_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_location.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_location_ico.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_location_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable_drawable_background.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable\\drawable_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_calendar.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_action_location_ico.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-anydpi\\ic_action_location_ico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_location_ico.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-mdpi\\ic_action_location_ico.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_light.ttf.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\font\\montserrat_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_call.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_call.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_email.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_calendar.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_calendar.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_location.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-hdpi\\ic_action_location.png"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_detail.xml.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\layout\\fragment_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_location.png.flat",
+        "source": "C:\\Users\\Peterstev\\AndroidStudioProjects\\.flutter_apps\\TuringTest\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_location.png"
+    }
+]

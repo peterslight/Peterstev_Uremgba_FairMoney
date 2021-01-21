@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fair Money</string>
+    <string name="BASE_URL">https://dummyapi.io/data/api/</string>
+    <string name="API_KEY">6005ae6ec4cb97274341f357</string>
+    <string name="API_HEADER_KEY">app-id</string>
+    <string name="NETWORK_CONNECTED">CONNECTED</string>
+</resources>
