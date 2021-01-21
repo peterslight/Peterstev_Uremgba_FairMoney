@@ -5,6 +5,12 @@ The aim is to get data from a public API https://dummyapi.io/ and display a list
 
 Some of the resources used include:
 
+## Sources
+* APK file: https://github.com/peterslight/Peterstev_Uremgba_FairMoney/blob/master/app/release/Fair%20Money%20Assessment.apk
+* Integration Tests: https://github.com/peterslight/Peterstev_Uremgba_FairMoney/tree/master/app/src/androidTest/java/com/peterstev/fairmoney
+* Unit Tests: https://github.com/peterslight/Peterstev_Uremgba_FairMoney/tree/master/app/src/test/java/com/peterstev/fairmoney
+* App Module: https://github.com/peterslight/Peterstev_Uremgba_FairMoney/tree/master/app/src/main/java/com/peterstev/fairmoney
+
 ## Resources
 
 * Base URL: https://dummyapi.io/data/api/
